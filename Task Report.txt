@@ -1,0 +1,38 @@
+________VPN Setup and Privacy Report_________
+
+Objective
+Understand the role of VPNs in protecting privacy and secure communication.
+
+Tools Used:-
+Opera Browser in-Built VPN Service
+
+VPN Setup Steps:-
+
+Chose a reputable free VPN service (ProtonVPN and Windscribe) and signed up for an account.
+Downloaded and installed the VPN client from the official provider.
+Connected to a VPN server (closest available or any location).
+Verified the IP address change using whatismyipaddress.com.
+Browsed a website to confirm traffic encryption.
+Disconnected the VPN and compared browsing speed and IP address.
+Researched VPN encryption and privacy features from the VPN provider’s documentation.
+Wrote a summary on VPN benefits and limitations.
+
+Connection Status Screenshot
+(Attach your actual VPN client connection screenshot here.)
+
+VPN Benefits Summary:-
+
+Protects privacy by hiding IP address
+Encrypts internet traffic to secure communication
+Provides ability to access geographically restricted content
+Limits third-party tracking
+
+VPN Limitations Summary:-
+
+May reduce network speed
+Some free VPNs have data caps or bandwidth limits
+Trust is placed in the VPN provider’s no-logs policy
+Does not guarantee complete anonymity if personally identifiable data is exposed elsewhere
+
+Outcome
+Hands-on experience gained with VPN installation, configuration, and verification of secure traffic and IP address masking.
